@@ -1,2 +1,2 @@
 #  game_dragons
-Arythmetics dragons game by MIPT course
+Arithmetics dragons game by MIPT course
